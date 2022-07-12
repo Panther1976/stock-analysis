@@ -1,8 +1,3 @@
-<style>
-    .page-content img {
-        border: 2px solid #DDD;
-    }
-</style>
 # **Stock Analysis**
 
 ## **Overview of Project**
@@ -42,7 +37,11 @@ In my first attempt, I re-used some of the coding I created during the module in
 
 #### Time Elapsed to Run the 2017 Stock Macro:
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/106631875/178599270-73aa0df1-f398-4a9f-a358-b65cafd44d5f.png)
+<style>
+    .page-content img {
+        border: 2px solid #DDD;
+    }
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/106631875/178599270-73aa0df1-f398-4a9f-a358-b65cafd44d5f.png)</style>
 
 #### Time Elapsed to Run the 2018 Stock Macro:
 
