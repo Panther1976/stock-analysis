@@ -1,3 +1,8 @@
+<style>
+    .page-content img {
+        border: 2px solid #DDD;
+    }
+</style>
 # **Stock Analysis**
 
 ## **Overview of Project**
