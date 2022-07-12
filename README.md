@@ -33,7 +33,7 @@ The advantage of refactoring code is making it more efficient. By taking less st
 
 -	How do these pros and cons apply to refactoring the original VBA script?
 
-In my first attempt, I re-used some of the coding I created during the module instead of starting with the refactored code given. The result was that I had nested loops that were slowing the speed of the macro. After starting over with the refactored code that was given, I was able to correct my mistakes. This allowed me to make the code more efficient which resulted much faster results. See below.
+In my first attempt, I re-used some of the coding I created during the module instead of starting with the refactored code given. The result was that I had nested loops that were slowing the speed of the macro. After starting over with the refactored code that was given, I was able to correct my mistakes. This allowed me to make the code more efficient which resulted much faster results. My original results took several seconds. After correcting my mistakes, the results take a fraction of a second. See below.
 
 #### Time Elapsed to Run the 2017 Stock Macro:
 
